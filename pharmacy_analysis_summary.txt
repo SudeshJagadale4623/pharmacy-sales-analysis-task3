@@ -1,0 +1,58 @@
+PHARMACY SALES & DRUG ANALYSIS SUMMARY
+========================================
+
+Total Sales: $33,025.50
+Total Quantity Sold: 4,546
+Total Orders: 1,245
+Average Order Value: $26.53
+
+Top 10 Medicines by Revenue:
+MedicineName
+Lantus          4004.0
+Insulin         3270.0
+Lipitor         2420.0
+Prilosec        2331.0
+Zithromax       2002.0
+Norvasc         1809.0
+Azithromycin    1424.0
+Omeprazole      1416.0
+Ventolin        1325.0
+Cozaar          1301.5
+
+Monthly Sales:
+Month
+2026-03    5436.0
+2026-04    4498.0
+2026-05    6334.0
+2026-06    5447.5
+2026-07    4959.0
+2026-08    6351.0
+Freq: M
+
+Month-over-Month Growth (%):
+Month
+2026-03     0.0
+2026-04   -17.3
+2026-05    40.8
+2026-06   -14.0
+2026-07    -9.0
+2026-08    28.1
+Freq: M
+
+Branded vs Generic Comparison:
+         Total_Sales  Total_Quantity  Orders  Avg_Unit_Price  Avg_Order_Value
+Type                                                                         
+Branded      19734.0            2112     548             9.3            36.01
+Generic      13291.5            2434     697             5.5            19.07
+
+Sales by Category:
+Category
+Diabetes        9309.5
+Hypertension    5316.0
+Gastric         3747.0
+Pain Relief     3472.5
+Antibiotic      3426.0
+Cholesterol     3421.0
+Asthma          2480.0
+Allergy          982.0
+Supplement       871.5

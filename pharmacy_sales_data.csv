@@ -1,0 +1,1246 @@
+OrderID,Date,MedicineName,Type,Category,Quantity,UnitPrice,TotalAmount
+ORD6051,2026-03-01,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5331,2026-03-01,Lipitor,Branded,Cholesterol,4,11.0,44.0
+ORD5173,2026-03-01,Prilosec,Branded,Gastric,4,10.5,42.0
+ORD5170,2026-03-01,Ventolin,Branded,Asthma,2,12.5,25.0
+ORD5234,2026-03-01,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD6016,2026-03-01,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD6219,2026-03-01,Atorvastatin,Generic,Cholesterol,4,6.5,26.0
+ORD5729,2026-03-01,Azithromycin,Generic,Antibiotic,4,8.0,32.0
+ORD6187,2026-03-01,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5387,2026-03-02,Norvasc,Branded,Hypertension,1,9.0,9.0
+ORD5414,2026-03-02,Calpol,Branded,Pain Relief,5,4.5,22.5
+ORD6176,2026-03-02,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD5266,2026-03-02,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5843,2026-03-02,Prilosec,Branded,Gastric,2,10.5,21.0
+ORD5646,2026-03-02,Cozaar,Branded,Hypertension,4,9.5,38.0
+ORD5899,2026-03-03,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD5760,2026-03-03,Amlodipine,Generic,Hypertension,4,5.0,20.0
+ORD5756,2026-03-03,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5657,2026-03-03,Losartan,Generic,Hypertension,6,5.5,33.0
+ORD5275,2026-03-03,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5034,2026-03-04,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD5751,2026-03-04,Norvasc,Branded,Hypertension,3,9.0,27.0
+ORD5864,2026-03-04,Zithromax,Branded,Antibiotic,6,14.0,84.0
+ORD5159,2026-03-04,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5616,2026-03-04,Brufen,Branded,Pain Relief,10,5.5,55.0
+ORD5125,2026-03-04,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5503,2026-03-04,Lantus,Branded,Diabetes,1,28.0,28.0
+ORD6217,2026-03-04,Prilosec,Branded,Gastric,2,10.5,21.0
+ORD5164,2026-03-05,Cetirizine,Generic,Allergy,6,2.0,12.0
+ORD5593,2026-03-05,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5427,2026-03-05,Amlodipine,Generic,Hypertension,10,5.0,50.0
+ORD5201,2026-03-06,Vitamin C,Generic,Supplement,3,1.5,4.5
+ORD5556,2026-03-06,Ibuprofen,Generic,Pain Relief,5,3.0,15.0
+ORD5026,2026-03-06,Lantus,Branded,Diabetes,4,28.0,112.0
+ORD6210,2026-03-06,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD5335,2026-03-06,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5691,2026-03-06,Zyrtec,Branded,Allergy,6,4.0,24.0
+ORD5378,2026-03-06,Prilosec,Branded,Gastric,3,10.5,31.5
+ORD5464,2026-03-06,Limcee,Branded,Supplement,1,3.0,3.0
+ORD6155,2026-03-06,Amlodipine,Generic,Hypertension,3,5.0,15.0
+ORD5763,2026-03-07,Norvasc,Branded,Hypertension,1,9.0,9.0
+ORD5313,2026-03-07,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5346,2026-03-07,Calpol,Branded,Pain Relief,10,4.5,45.0
+ORD5364,2026-03-07,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5652,2026-03-07,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5051,2026-03-07,Lipitor,Branded,Cholesterol,10,11.0,110.0
+ORD5246,2026-03-07,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD6095,2026-03-07,Norvasc,Branded,Hypertension,10,9.0,90.0
+ORD5085,2026-03-08,Ibuprofen,Generic,Pain Relief,10,3.0,30.0
+ORD6038,2026-03-08,Glucophage,Branded,Diabetes,3,7.5,22.5
+ORD5067,2026-03-08,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD5382,2026-03-08,Lantus,Branded,Diabetes,5,28.0,140.0
+ORD5240,2026-03-08,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5057,2026-03-08,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD6143,2026-03-08,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5181,2026-03-08,Omeprazole,Generic,Gastric,5,6.0,30.0
+ORD6172,2026-03-08,Insulin,Generic,Diabetes,5,15.0,75.0
+ORD5888,2026-03-08,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5411,2026-03-09,Amlodipine,Generic,Hypertension,6,5.0,30.0
+ORD5466,2026-03-09,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5613,2026-03-09,Limcee,Branded,Supplement,1,3.0,3.0
+ORD6005,2026-03-09,Vitamin C,Generic,Supplement,5,1.5,7.5
+ORD5813,2026-03-09,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5872,2026-03-09,Cetirizine,Generic,Allergy,6,2.0,12.0
+ORD5277,2026-03-09,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD5118,2026-03-10,Omeprazole,Generic,Gastric,3,6.0,18.0
+ORD5484,2026-03-10,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD6009,2026-03-10,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5553,2026-03-10,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD5603,2026-03-10,Azithromycin,Generic,Antibiotic,10,8.0,80.0
+ORD5988,2026-03-10,Brufen,Branded,Pain Relief,4,5.5,22.0
+ORD5821,2026-03-10,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5573,2026-03-11,Zyrtec,Branded,Allergy,5,4.0,20.0
+ORD5730,2026-03-11,Ibuprofen,Generic,Pain Relief,3,3.0,9.0
+ORD5310,2026-03-11,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD6138,2026-03-11,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5300,2026-03-11,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD5084,2026-03-11,Calpol,Branded,Pain Relief,3,4.5,13.5
+ORD5774,2026-03-11,Vitamin C,Generic,Supplement,1,1.5,1.5
+ORD5656,2026-03-11,Zithromax,Branded,Antibiotic,4,14.0,56.0
+ORD5241,2026-03-11,Limcee,Branded,Supplement,5,3.0,15.0
+ORD5476,2026-03-11,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD5142,2026-03-12,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5156,2026-03-12,Salbutamol,Generic,Asthma,3,7.0,21.0
+ORD5371,2026-03-12,Vitamin C,Generic,Supplement,1,1.5,1.5
+ORD5008,2026-03-12,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD6093,2026-03-12,Amlodipine,Generic,Hypertension,10,5.0,50.0
+ORD5273,2026-03-12,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD6110,2026-03-12,Azithromycin,Generic,Antibiotic,4,8.0,32.0
+ORD5770,2026-03-13,Losartan,Generic,Hypertension,5,5.5,27.5
+ORD6099,2026-03-13,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD5379,2026-03-13,Prilosec,Branded,Gastric,3,10.5,31.5
+ORD5992,2026-03-13,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5148,2026-03-13,Azithromycin,Generic,Antibiotic,10,8.0,80.0
+ORD5804,2026-03-13,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD5502,2026-03-14,Vitamin C,Generic,Supplement,3,1.5,4.5
+ORD5547,2026-03-15,Atorvastatin,Generic,Cholesterol,6,6.5,39.0
+ORD5991,2026-03-15,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD6000,2026-03-15,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD5347,2026-03-15,Zithromax,Branded,Antibiotic,2,14.0,28.0
+ORD5569,2026-03-15,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD6088,2026-03-15,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD6212,2026-03-15,Limcee,Branded,Supplement,5,3.0,15.0
+ORD5865,2026-03-15,Paracetamol,Generic,Pain Relief,4,2.5,10.0
+ORD5075,2026-03-16,Lipitor,Branded,Cholesterol,2,11.0,22.0
+ORD5242,2026-03-16,Zithromax,Branded,Antibiotic,1,14.0,14.0
+ORD5545,2026-03-16,Paracetamol,Generic,Pain Relief,4,2.5,10.0
+ORD6137,2026-03-16,Metformin,Generic,Diabetes,10,4.0,40.0
+ORD5886,2026-03-16,Azithromycin,Generic,Antibiotic,4,8.0,32.0
+ORD5510,2026-03-16,Cozaar,Branded,Hypertension,3,9.5,28.5
+ORD5752,2026-03-16,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5005,2026-03-16,Norvasc,Branded,Hypertension,5,9.0,45.0
+ORD5840,2026-03-16,Atorvastatin,Generic,Cholesterol,4,6.5,26.0
+ORD5024,2026-03-16,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD6144,2026-03-17,Lipitor,Branded,Cholesterol,4,11.0,44.0
+ORD5778,2026-03-17,Insulin,Generic,Diabetes,4,15.0,60.0
+ORD6156,2026-03-17,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD5316,2026-03-17,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD5960,2026-03-17,Amlodipine,Generic,Hypertension,4,5.0,20.0
+ORD5524,2026-03-17,Ibuprofen,Generic,Pain Relief,4,3.0,12.0
+ORD6020,2026-03-18,Glucophage,Branded,Diabetes,3,7.5,22.5
+ORD5689,2026-03-18,Azithromycin,Generic,Antibiotic,6,8.0,48.0
+ORD5222,2026-03-18,Paracetamol,Generic,Pain Relief,10,2.5,25.0
+ORD6179,2026-03-18,Salbutamol,Generic,Asthma,6,7.0,42.0
+ORD5850,2026-03-18,Omeprazole,Generic,Gastric,5,6.0,30.0
+ORD5004,2026-03-18,Calpol,Branded,Pain Relief,5,4.5,22.5
+ORD5714,2026-03-18,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD6117,2026-03-18,Prilosec,Branded,Gastric,2,10.5,21.0
+ORD6174,2026-03-19,Calpol,Branded,Pain Relief,10,4.5,45.0
+ORD5913,2026-03-19,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD6148,2026-03-19,Lipitor,Branded,Cholesterol,3,11.0,33.0
+ORD5933,2026-03-19,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD5044,2026-03-19,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5091,2026-03-19,Brufen,Branded,Pain Relief,4,5.5,22.0
+ORD5847,2026-03-19,Insulin,Generic,Diabetes,4,15.0,60.0
+ORD5269,2026-03-20,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD6112,2026-03-20,Vitamin C,Generic,Supplement,5,1.5,7.5
+ORD5157,2026-03-20,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD5166,2026-03-20,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5155,2026-03-20,Salbutamol,Generic,Asthma,5,7.0,35.0
+ORD6197,2026-03-20,Losartan,Generic,Hypertension,10,5.5,55.0
+ORD5824,2026-03-20,Amlodipine,Generic,Hypertension,10,5.0,50.0
+ORD5663,2026-03-20,Glucophage,Branded,Diabetes,4,7.5,30.0
+ORD5554,2026-03-20,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD6152,2026-03-20,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD5016,2026-03-21,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5218,2026-03-21,Salbutamol,Generic,Asthma,5,7.0,35.0
+ORD5455,2026-03-21,Salbutamol,Generic,Asthma,10,7.0,70.0
+ORD5961,2026-03-21,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5531,2026-03-21,Brufen,Branded,Pain Relief,6,5.5,33.0
+ORD5146,2026-03-22,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD6040,2026-03-22,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD6070,2026-03-22,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD5359,2026-03-22,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5500,2026-03-22,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5033,2026-03-22,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5066,2026-03-22,Lantus,Branded,Diabetes,5,28.0,140.0
+ORD5757,2026-03-22,Salbutamol,Generic,Asthma,6,7.0,42.0
+ORD5206,2026-03-22,Ibuprofen,Generic,Pain Relief,6,3.0,18.0
+ORD5107,2026-03-23,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD6037,2026-03-23,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5576,2026-03-23,Glucophage,Branded,Diabetes,1,7.5,7.5
+ORD5978,2026-03-23,Lipitor,Branded,Cholesterol,3,11.0,33.0
+ORD5862,2026-03-23,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD5716,2026-03-23,Norvasc,Branded,Hypertension,3,9.0,27.0
+ORD5295,2026-03-23,Prilosec,Branded,Gastric,5,10.5,52.5
+ORD5893,2026-03-23,Metformin,Generic,Diabetes,3,4.0,12.0
+ORD6203,2026-03-23,Lipitor,Branded,Cholesterol,1,11.0,11.0
+ORD6204,2026-03-23,Lantus,Branded,Diabetes,1,28.0,28.0
+ORD5065,2026-03-23,Metformin,Generic,Diabetes,4,4.0,16.0
+ORD5193,2026-03-24,Brufen,Branded,Pain Relief,10,5.5,55.0
+ORD5199,2026-03-24,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD6231,2026-03-24,Prilosec,Branded,Gastric,1,10.5,10.5
+ORD5135,2026-03-24,Norvasc,Branded,Hypertension,1,9.0,9.0
+ORD5953,2026-03-24,Norvasc,Branded,Hypertension,6,9.0,54.0
+ORD6012,2026-03-24,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5581,2026-03-24,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5527,2026-03-24,Norvasc,Branded,Hypertension,2,9.0,18.0
+ORD5662,2026-03-24,Cozaar,Branded,Hypertension,10,9.5,95.0
+ORD5533,2026-03-25,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5465,2026-03-25,Cozaar,Branded,Hypertension,4,9.5,38.0
+ORD5997,2026-03-25,Amlodipine,Generic,Hypertension,6,5.0,30.0
+ORD6215,2026-03-25,Prilosec,Branded,Gastric,5,10.5,52.5
+ORD5002,2026-03-25,Calpol,Branded,Pain Relief,10,4.5,45.0
+ORD5812,2026-03-26,Insulin,Generic,Diabetes,4,15.0,60.0
+ORD5658,2026-03-26,Limcee,Branded,Supplement,2,3.0,6.0
+ORD6080,2026-03-27,Lipitor,Branded,Cholesterol,2,11.0,22.0
+ORD5103,2026-03-27,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD5147,2026-03-27,Calpol,Branded,Pain Relief,4,4.5,18.0
+ORD5758,2026-03-28,Insulin,Generic,Diabetes,3,15.0,45.0
+ORD5769,2026-03-28,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5609,2026-03-28,Vitamin C,Generic,Supplement,4,1.5,6.0
+ORD6163,2026-03-28,Salbutamol,Generic,Asthma,4,7.0,28.0
+ORD5292,2026-03-28,Lipitor,Branded,Cholesterol,1,11.0,11.0
+ORD5271,2026-03-28,Cozaar,Branded,Hypertension,1,9.5,9.5
+ORD5204,2026-03-28,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD5884,2026-03-28,Ventolin,Branded,Asthma,1,12.5,12.5
+ORD5963,2026-03-28,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5478,2026-03-28,Cozaar,Branded,Hypertension,3,9.5,28.5
+ORD6039,2026-03-29,Zithromax,Branded,Antibiotic,10,14.0,140.0
+ORD5230,2026-03-29,Salbutamol,Generic,Asthma,4,7.0,28.0
+ORD6068,2026-03-29,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5815,2026-03-30,Insulin,Generic,Diabetes,6,15.0,90.0
+ORD6207,2026-03-30,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5018,2026-03-31,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD5586,2026-03-31,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5970,2026-03-31,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD5540,2026-03-31,Ibuprofen,Generic,Pain Relief,5,3.0,15.0
+ORD5174,2026-03-31,Omeprazole,Generic,Gastric,5,6.0,30.0
+ORD6074,2026-03-31,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5618,2026-03-31,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD5941,2026-04-01,Zithromax,Branded,Antibiotic,5,14.0,70.0
+ORD5299,2026-04-01,Lipitor,Branded,Cholesterol,4,11.0,44.0
+ORD5430,2026-04-01,Limcee,Branded,Supplement,10,3.0,30.0
+ORD6135,2026-04-01,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD5878,2026-04-01,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5695,2026-04-01,Zithromax,Branded,Antibiotic,1,14.0,14.0
+ORD5475,2026-04-02,Norvasc,Branded,Hypertension,3,9.0,27.0
+ORD5198,2026-04-02,Cetirizine,Generic,Allergy,4,2.0,8.0
+ORD5037,2026-04-02,Omeprazole,Generic,Gastric,4,6.0,24.0
+ORD5185,2026-04-02,Cetirizine,Generic,Allergy,10,2.0,20.0
+ORD5207,2026-04-02,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5308,2026-04-02,Ventolin,Branded,Asthma,1,12.5,12.5
+ORD5248,2026-04-03,Cetirizine,Generic,Allergy,6,2.0,12.0
+ORD5288,2026-04-03,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5376,2026-04-03,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5028,2026-04-03,Calpol,Branded,Pain Relief,3,4.5,13.5
+ORD5070,2026-04-03,Prilosec,Branded,Gastric,10,10.5,105.0
+ORD6124,2026-04-04,Insulin,Generic,Diabetes,3,15.0,45.0
+ORD5590,2026-04-04,Lipitor,Branded,Cholesterol,10,11.0,110.0
+ORD5966,2026-04-04,Ibuprofen,Generic,Pain Relief,6,3.0,18.0
+ORD5582,2026-04-04,Calpol,Branded,Pain Relief,6,4.5,27.0
+ORD5857,2026-04-04,Calpol,Branded,Pain Relief,4,4.5,18.0
+ORD5574,2026-04-05,Zithromax,Branded,Antibiotic,2,14.0,28.0
+ORD5599,2026-04-05,Brufen,Branded,Pain Relief,5,5.5,27.5
+ORD5447,2026-04-05,Calpol,Branded,Pain Relief,4,4.5,18.0
+ORD5457,2026-04-05,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD5772,2026-04-06,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5680,2026-04-06,Paracetamol,Generic,Pain Relief,4,2.5,10.0
+ORD5558,2026-04-06,Amlodipine,Generic,Hypertension,4,5.0,20.0
+ORD6092,2026-04-06,Glucophage,Branded,Diabetes,3,7.5,22.5
+ORD5048,2026-04-06,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5094,2026-04-06,Insulin,Generic,Diabetes,4,15.0,60.0
+ORD5936,2026-04-06,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5867,2026-04-06,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD6236,2026-04-06,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5367,2026-04-07,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD5607,2026-04-07,Lipitor,Branded,Cholesterol,10,11.0,110.0
+ORD5600,2026-04-07,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5408,2026-04-07,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD5620,2026-04-07,Ibuprofen,Generic,Pain Relief,10,3.0,30.0
+ORD5507,2026-04-07,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD6048,2026-04-07,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5880,2026-04-08,Glucophage,Branded,Diabetes,4,7.5,30.0
+ORD6049,2026-04-08,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD6076,2026-04-08,Glucophage,Branded,Diabetes,4,7.5,30.0
+ORD6004,2026-04-08,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5019,2026-04-08,Lipitor,Branded,Cholesterol,4,11.0,44.0
+ORD5725,2026-04-09,Metformin,Generic,Diabetes,3,4.0,12.0
+ORD5404,2026-04-09,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5093,2026-04-09,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5564,2026-04-09,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5279,2026-04-09,Ibuprofen,Generic,Pain Relief,10,3.0,30.0
+ORD5317,2026-04-10,Omeprazole,Generic,Gastric,3,6.0,18.0
+ORD5866,2026-04-10,Azithromycin,Generic,Antibiotic,4,8.0,32.0
+ORD5702,2026-04-10,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD5543,2026-04-10,Lipitor,Branded,Cholesterol,6,11.0,66.0
+ORD5771,2026-04-10,Amlodipine,Generic,Hypertension,6,5.0,30.0
+ORD5339,2026-04-10,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD5129,2026-04-10,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5291,2026-04-11,Glucophage,Branded,Diabetes,3,7.5,22.5
+ORD5754,2026-04-11,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5460,2026-04-11,Ventolin,Branded,Asthma,1,12.5,12.5
+ORD5629,2026-04-11,Zithromax,Branded,Antibiotic,4,14.0,56.0
+ORD5097,2026-04-11,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD5114,2026-04-11,Lantus,Branded,Diabetes,1,28.0,28.0
+ORD6101,2026-04-11,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5894,2026-04-11,Prilosec,Branded,Gastric,2,10.5,21.0
+ORD5994,2026-04-12,Ventolin,Branded,Asthma,10,12.5,125.0
+ORD5345,2026-04-12,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5601,2026-04-12,Vitamin C,Generic,Supplement,5,1.5,7.5
+ORD5779,2026-04-12,Ventolin,Branded,Asthma,2,12.5,25.0
+ORD5677,2026-04-13,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD5400,2026-04-13,Vitamin C,Generic,Supplement,4,1.5,6.0
+ORD5681,2026-04-13,Lantus,Branded,Diabetes,3,28.0,84.0
+ORD5808,2026-04-13,Ibuprofen,Generic,Pain Relief,4,3.0,12.0
+ORD5741,2026-04-13,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5577,2026-04-14,Losartan,Generic,Hypertension,3,5.5,16.5
+ORD5354,2026-04-14,Ibuprofen,Generic,Pain Relief,6,3.0,18.0
+ORD5544,2026-04-14,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5080,2026-04-14,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD5861,2026-04-14,Ventolin,Branded,Asthma,4,12.5,50.0
+ORD5946,2026-04-14,Ibuprofen,Generic,Pain Relief,6,3.0,18.0
+ORD5305,2026-04-15,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD5909,2026-04-15,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD6228,2026-04-15,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5965,2026-04-15,Zithromax,Branded,Antibiotic,6,14.0,84.0
+ORD5307,2026-04-15,Amlodipine,Generic,Hypertension,6,5.0,30.0
+ORD5722,2026-04-16,Zithromax,Branded,Antibiotic,1,14.0,14.0
+ORD5559,2026-04-16,Prilosec,Branded,Gastric,1,10.5,10.5
+ORD5079,2026-04-16,Lipitor,Branded,Cholesterol,6,11.0,66.0
+ORD5897,2026-04-16,Paracetamol,Generic,Pain Relief,6,2.5,15.0
+ORD5104,2026-04-16,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD5321,2026-04-16,Prilosec,Branded,Gastric,2,10.5,21.0
+ORD5463,2026-04-16,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5977,2026-04-17,Prilosec,Branded,Gastric,1,10.5,10.5
+ORD6192,2026-04-17,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5276,2026-04-17,Prilosec,Branded,Gastric,4,10.5,42.0
+ORD5499,2026-04-17,Insulin,Generic,Diabetes,6,15.0,90.0
+ORD5231,2026-04-18,Ibuprofen,Generic,Pain Relief,4,3.0,12.0
+ORD5660,2026-04-18,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD6150,2026-04-18,Salbutamol,Generic,Asthma,6,7.0,42.0
+ORD6244,2026-04-18,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5788,2026-04-18,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5180,2026-04-18,Cetirizine,Generic,Allergy,4,2.0,8.0
+ORD5239,2026-04-19,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD5217,2026-04-19,Limcee,Branded,Supplement,1,3.0,3.0
+ORD6206,2026-04-19,Metformin,Generic,Diabetes,4,4.0,16.0
+ORD5072,2026-04-19,Insulin,Generic,Diabetes,5,15.0,75.0
+ORD5814,2026-04-19,Limcee,Branded,Supplement,4,3.0,12.0
+ORD5314,2026-04-19,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD6105,2026-04-20,Cetirizine,Generic,Allergy,6,2.0,12.0
+ORD5221,2026-04-20,Zithromax,Branded,Antibiotic,5,14.0,70.0
+ORD5454,2026-04-20,Atorvastatin,Generic,Cholesterol,3,6.5,19.5
+ORD5855,2026-04-20,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5548,2026-04-20,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD6007,2026-04-20,Vitamin C,Generic,Supplement,1,1.5,1.5
+ORD6050,2026-04-20,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5915,2026-04-20,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5238,2026-04-20,Brufen,Branded,Pain Relief,6,5.5,33.0
+ORD5924,2026-04-20,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD6053,2026-04-20,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5954,2026-04-21,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD6100,2026-04-21,Lipitor,Branded,Cholesterol,2,11.0,22.0
+ORD5163,2026-04-21,Salbutamol,Generic,Asthma,10,7.0,70.0
+ORD5742,2026-04-21,Prilosec,Branded,Gastric,1,10.5,10.5
+ORD5372,2026-04-21,Ibuprofen,Generic,Pain Relief,4,3.0,12.0
+ORD6014,2026-04-21,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD5056,2026-04-21,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD6178,2026-04-21,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD5050,2026-04-22,Lantus,Branded,Diabetes,1,28.0,28.0
+ORD5338,2026-04-22,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5285,2026-04-22,Norvasc,Branded,Hypertension,5,9.0,45.0
+ORD5651,2026-04-22,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD5374,2026-04-22,Zithromax,Branded,Antibiotic,2,14.0,28.0
+ORD5469,2026-04-23,Salbutamol,Generic,Asthma,10,7.0,70.0
+ORD5732,2026-04-23,Limcee,Branded,Supplement,4,3.0,12.0
+ORD5041,2026-04-23,Zithromax,Branded,Antibiotic,1,14.0,14.0
+ORD5429,2026-04-23,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5319,2026-04-23,Glucophage,Branded,Diabetes,6,7.5,45.0
+ORD6223,2026-04-24,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5482,2026-04-24,Vitamin C,Generic,Supplement,1,1.5,1.5
+ORD5826,2026-04-24,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5895,2026-04-24,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD6171,2026-04-24,Glucophage,Branded,Diabetes,1,7.5,7.5
+ORD5859,2026-04-24,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD5003,2026-04-24,Omeprazole,Generic,Gastric,10,6.0,60.0
+ORD5092,2026-04-24,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5995,2026-04-24,Ventolin,Branded,Asthma,3,12.5,37.5
+ORD5708,2026-04-24,Norvasc,Branded,Hypertension,10,9.0,90.0
+ORD6226,2026-04-25,Limcee,Branded,Supplement,2,3.0,6.0
+ORD5853,2026-04-25,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5891,2026-04-25,Limcee,Branded,Supplement,6,3.0,18.0
+ORD5132,2026-04-25,Norvasc,Branded,Hypertension,3,9.0,27.0
+ORD5272,2026-04-25,Vitamin C,Generic,Supplement,4,1.5,6.0
+ORD5497,2026-04-25,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5424,2026-04-25,Brufen,Branded,Pain Relief,10,5.5,55.0
+ORD6044,2026-04-25,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5972,2026-04-25,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5627,2026-04-26,Zyrtec,Branded,Allergy,4,4.0,16.0
+ORD5095,2026-04-26,Cetirizine,Generic,Allergy,6,2.0,12.0
+ORD5212,2026-04-27,Cozaar,Branded,Hypertension,3,9.5,28.5
+ORD5591,2026-04-27,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5438,2026-04-27,Amlodipine,Generic,Hypertension,10,5.0,50.0
+ORD6006,2026-04-27,Prilosec,Branded,Gastric,3,10.5,31.5
+ORD5337,2026-04-27,Ibuprofen,Generic,Pain Relief,10,3.0,30.0
+ORD5686,2026-04-27,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD5611,2026-04-27,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5796,2026-04-27,Ventolin,Branded,Asthma,6,12.5,75.0
+ORD6184,2026-04-28,Zithromax,Branded,Antibiotic,2,14.0,28.0
+ORD5416,2026-04-28,Losartan,Generic,Hypertension,5,5.5,27.5
+ORD5060,2026-04-28,Prilosec,Branded,Gastric,1,10.5,10.5
+ORD6061,2026-04-29,Limcee,Branded,Supplement,3,3.0,9.0
+ORD6218,2026-04-29,Azithromycin,Generic,Antibiotic,4,8.0,32.0
+ORD5257,2026-04-29,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5355,2026-04-29,Amlodipine,Generic,Hypertension,3,5.0,15.0
+ORD5268,2026-04-29,Prilosec,Branded,Gastric,3,10.5,31.5
+ORD5930,2026-04-30,Omeprazole,Generic,Gastric,5,6.0,30.0
+ORD5320,2026-04-30,Cozaar,Branded,Hypertension,10,9.5,95.0
+ORD5842,2026-04-30,Lipitor,Branded,Cholesterol,2,11.0,22.0
+ORD5744,2026-04-30,Insulin,Generic,Diabetes,6,15.0,90.0
+ORD5360,2026-04-30,Lipitor,Branded,Cholesterol,3,11.0,33.0
+ORD5153,2026-04-30,Cetirizine,Generic,Allergy,3,2.0,6.0
+ORD6029,2026-05-01,Glucophage,Branded,Diabetes,1,7.5,7.5
+ORD6034,2026-05-01,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5055,2026-05-01,Limcee,Branded,Supplement,2,3.0,6.0
+ORD6035,2026-05-01,Insulin,Generic,Diabetes,10,15.0,150.0
+ORD5810,2026-05-01,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD6188,2026-05-01,Paracetamol,Generic,Pain Relief,5,2.5,12.5
+ORD5922,2026-05-01,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5699,2026-05-01,Limcee,Branded,Supplement,2,3.0,6.0
+ORD5889,2026-05-01,Zyrtec,Branded,Allergy,5,4.0,20.0
+ORD5622,2026-05-02,Azithromycin,Generic,Antibiotic,3,8.0,24.0
+ORD6031,2026-05-02,Lipitor,Branded,Cholesterol,6,11.0,66.0
+ORD6041,2026-05-02,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD6224,2026-05-02,Lipitor,Branded,Cholesterol,10,11.0,110.0
+ORD5192,2026-05-02,Zithromax,Branded,Antibiotic,2,14.0,28.0
+ORD5731,2026-05-02,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD6186,2026-05-02,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD5561,2026-05-03,Glucophage,Branded,Diabetes,5,7.5,37.5
+ORD6230,2026-05-03,Lantus,Branded,Diabetes,5,28.0,140.0
+ORD5721,2026-05-03,Paracetamol,Generic,Pain Relief,6,2.5,15.0
+ORD5252,2026-05-03,Norvasc,Branded,Hypertension,2,9.0,18.0
+ORD5261,2026-05-03,Lantus,Branded,Diabetes,6,28.0,168.0
+ORD5459,2026-05-03,Salbutamol,Generic,Asthma,6,7.0,42.0
+ORD5179,2026-05-03,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5949,2026-05-04,Omeprazole,Generic,Gastric,5,6.0,30.0
+ORD5875,2026-05-04,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5846,2026-05-04,Brufen,Branded,Pain Relief,3,5.5,16.5
+ORD5420,2026-05-04,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5175,2026-05-04,Amlodipine,Generic,Hypertension,3,5.0,15.0
+ORD5470,2026-05-04,Cetirizine,Generic,Allergy,5,2.0,10.0
+ORD5326,2026-05-04,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5260,2026-05-05,Cetirizine,Generic,Allergy,4,2.0,8.0
+ORD5536,2026-05-05,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5566,2026-05-05,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5728,2026-05-05,Amlodipine,Generic,Hypertension,10,5.0,50.0
+ORD5550,2026-05-05,Ibuprofen,Generic,Pain Relief,4,3.0,12.0
+ORD5952,2026-05-05,Insulin,Generic,Diabetes,4,15.0,60.0
+ORD5739,2026-05-06,Norvasc,Branded,Hypertension,10,9.0,90.0
+ORD5816,2026-05-06,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD5546,2026-05-06,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5792,2026-05-06,Amlodipine,Generic,Hypertension,5,5.0,25.0
+ORD5567,2026-05-06,Amlodipine,Generic,Hypertension,5,5.0,25.0
+ORD6114,2026-05-06,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD6003,2026-05-06,Atorvastatin,Generic,Cholesterol,3,6.5,19.5
+ORD5074,2026-05-06,Lipitor,Branded,Cholesterol,4,11.0,44.0
+ORD5525,2026-05-06,Norvasc,Branded,Hypertension,10,9.0,90.0
+ORD5594,2026-05-06,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5406,2026-05-06,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD6190,2026-05-07,Vitamin C,Generic,Supplement,5,1.5,7.5
+ORD6158,2026-05-07,Insulin,Generic,Diabetes,10,15.0,150.0
+ORD5035,2026-05-07,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD5914,2026-05-07,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5323,2026-05-07,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5515,2026-05-07,Cetirizine,Generic,Allergy,4,2.0,8.0
+ORD5358,2026-05-07,Atorvastatin,Generic,Cholesterol,10,6.5,65.0
+ORD5167,2026-05-07,Cozaar,Branded,Hypertension,10,9.5,95.0
+ORD6154,2026-05-07,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5832,2026-05-07,Zithromax,Branded,Antibiotic,10,14.0,140.0
+ORD5224,2026-05-07,Norvasc,Branded,Hypertension,2,9.0,18.0
+ORD5619,2026-05-08,Paracetamol,Generic,Pain Relief,10,2.5,25.0
+ORD5403,2026-05-08,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD5932,2026-05-08,Lantus,Branded,Diabetes,10,28.0,280.0
+ORD5892,2026-05-08,Losartan,Generic,Hypertension,6,5.5,33.0
+ORD6108,2026-05-08,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5441,2026-05-08,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5639,2026-05-08,Ibuprofen,Generic,Pain Relief,6,3.0,18.0
+ORD6104,2026-05-09,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5509,2026-05-09,Azithromycin,Generic,Antibiotic,6,8.0,48.0
+ORD5023,2026-05-09,Ventolin,Branded,Asthma,1,12.5,12.5
+ORD5117,2026-05-09,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD6132,2026-05-09,Cetirizine,Generic,Allergy,10,2.0,20.0
+ORD5700,2026-05-09,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD6072,2026-05-09,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5831,2026-05-09,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD5597,2026-05-09,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5177,2026-05-10,Brufen,Branded,Pain Relief,5,5.5,27.5
+ORD5719,2026-05-10,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5944,2026-05-10,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5851,2026-05-10,Ventolin,Branded,Asthma,2,12.5,25.0
+ORD5409,2026-05-10,Cetirizine,Generic,Allergy,5,2.0,10.0
+ORD5245,2026-05-10,Calpol,Branded,Pain Relief,4,4.5,18.0
+ORD5498,2026-05-10,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD5517,2026-05-10,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD5698,2026-05-11,Prilosec,Branded,Gastric,1,10.5,10.5
+ORD5168,2026-05-11,Prilosec,Branded,Gastric,10,10.5,105.0
+ORD5410,2026-05-11,Norvasc,Branded,Hypertension,1,9.0,9.0
+ORD5443,2026-05-11,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5598,2026-05-11,Ibuprofen,Generic,Pain Relief,10,3.0,30.0
+ORD5734,2026-05-11,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5141,2026-05-12,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD6033,2026-05-12,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5390,2026-05-12,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5717,2026-05-12,Norvasc,Branded,Hypertension,5,9.0,45.0
+ORD5836,2026-05-12,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD5025,2026-05-12,Insulin,Generic,Diabetes,6,15.0,90.0
+ORD5186,2026-05-12,Metformin,Generic,Diabetes,4,4.0,16.0
+ORD5262,2026-05-12,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD5697,2026-05-12,Norvasc,Branded,Hypertension,6,9.0,54.0
+ORD5516,2026-05-13,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5617,2026-05-13,Zithromax,Branded,Antibiotic,1,14.0,14.0
+ORD5623,2026-05-13,Lantus,Branded,Diabetes,10,28.0,280.0
+ORD5315,2026-05-13,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD5161,2026-05-14,Ibuprofen,Generic,Pain Relief,6,3.0,18.0
+ORD5073,2026-05-14,Norvasc,Branded,Hypertension,2,9.0,18.0
+ORD5332,2026-05-14,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD5471,2026-05-14,Lipitor,Branded,Cholesterol,3,11.0,33.0
+ORD5755,2026-05-14,Omeprazole,Generic,Gastric,4,6.0,24.0
+ORD5116,2026-05-14,Limcee,Branded,Supplement,2,3.0,6.0
+ORD5989,2026-05-14,Zyrtec,Branded,Allergy,6,4.0,24.0
+ORD5588,2026-05-14,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5631,2026-05-15,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5621,2026-05-15,Ventolin,Branded,Asthma,2,12.5,25.0
+ORD6205,2026-05-15,Prilosec,Branded,Gastric,3,10.5,31.5
+ORD5330,2026-05-15,Norvasc,Branded,Hypertension,1,9.0,9.0
+ORD5377,2026-05-15,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5259,2026-05-15,Vitamin C,Generic,Supplement,3,1.5,4.5
+ORD5137,2026-05-16,Cozaar,Branded,Hypertension,1,9.5,9.5
+ORD5653,2026-05-16,Calpol,Branded,Pain Relief,6,4.5,27.0
+ORD5715,2026-05-16,Atorvastatin,Generic,Cholesterol,10,6.5,65.0
+ORD5704,2026-05-16,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD6214,2026-05-16,Cetirizine,Generic,Allergy,3,2.0,6.0
+ORD5015,2026-05-16,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD5351,2026-05-16,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5688,2026-05-17,Paracetamol,Generic,Pain Relief,6,2.5,15.0
+ORD5671,2026-05-17,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD5648,2026-05-17,Ventolin,Branded,Asthma,10,12.5,125.0
+ORD5293,2026-05-17,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5171,2026-05-17,Salbutamol,Generic,Asthma,5,7.0,35.0
+ORD6239,2026-05-17,Metformin,Generic,Diabetes,3,4.0,12.0
+ORD6234,2026-05-17,Ibuprofen,Generic,Pain Relief,5,3.0,15.0
+ORD6045,2026-05-17,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD5336,2026-05-17,Calpol,Branded,Pain Relief,4,4.5,18.0
+ORD5213,2026-05-17,Cozaar,Branded,Hypertension,10,9.5,95.0
+ORD6028,2026-05-17,Paracetamol,Generic,Pain Relief,6,2.5,15.0
+ORD5951,2026-05-18,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5303,2026-05-18,Vitamin C,Generic,Supplement,5,1.5,7.5
+ORD5670,2026-05-18,Zithromax,Branded,Antibiotic,1,14.0,14.0
+ORD6067,2026-05-18,Losartan,Generic,Hypertension,5,5.5,27.5
+ORD6160,2026-05-18,Limcee,Branded,Supplement,4,3.0,12.0
+ORD5982,2026-05-18,Azithromycin,Generic,Antibiotic,3,8.0,24.0
+ORD6085,2026-05-18,Cetirizine,Generic,Allergy,4,2.0,8.0
+ORD5726,2026-05-19,Azithromycin,Generic,Antibiotic,10,8.0,80.0
+ORD5223,2026-05-19,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5592,2026-05-19,Cozaar,Branded,Hypertension,1,9.5,9.5
+ORD5711,2026-05-19,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD5825,2026-05-19,Prilosec,Branded,Gastric,2,10.5,21.0
+ORD5115,2026-05-19,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5282,2026-05-19,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5520,2026-05-19,Zithromax,Branded,Antibiotic,2,14.0,28.0
+ORD6133,2026-05-19,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD5828,2026-05-20,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD5687,2026-05-20,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5250,2026-05-21,Metformin,Generic,Diabetes,4,4.0,16.0
+ORD5541,2026-05-21,Insulin,Generic,Diabetes,3,15.0,45.0
+ORD5767,2026-05-21,Prilosec,Branded,Gastric,4,10.5,42.0
+ORD5907,2026-05-21,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5563,2026-05-21,Glucophage,Branded,Diabetes,1,7.5,7.5
+ORD5099,2026-05-21,Omeprazole,Generic,Gastric,4,6.0,24.0
+ORD6098,2026-05-22,Lantus,Branded,Diabetes,3,28.0,84.0
+ORD5940,2026-05-22,Ventolin,Branded,Asthma,1,12.5,12.5
+ORD5976,2026-05-22,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD5557,2026-05-22,Limcee,Branded,Supplement,4,3.0,12.0
+ORD5650,2026-05-22,Norvasc,Branded,Hypertension,4,9.0,36.0
+ORD5131,2026-05-22,Omeprazole,Generic,Gastric,10,6.0,60.0
+ORD5444,2026-05-22,Prilosec,Branded,Gastric,3,10.5,31.5
+ORD5713,2026-05-22,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD5926,2026-05-23,Calpol,Branded,Pain Relief,10,4.5,45.0
+ORD5140,2026-05-23,Insulin,Generic,Diabetes,5,15.0,75.0
+ORD5361,2026-05-23,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD5918,2026-05-24,Salbutamol,Generic,Asthma,10,7.0,70.0
+ORD5054,2026-05-24,Amlodipine,Generic,Hypertension,10,5.0,50.0
+ORD6027,2026-05-24,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5827,2026-05-24,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD5474,2026-05-24,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD6052,2026-05-24,Ventolin,Branded,Asthma,10,12.5,125.0
+ORD6140,2026-05-24,Norvasc,Branded,Hypertension,4,9.0,36.0
+ORD5903,2026-05-25,Vitamin C,Generic,Supplement,5,1.5,7.5
+ORD5472,2026-05-25,Omeprazole,Generic,Gastric,5,6.0,30.0
+ORD5562,2026-05-25,Glucophage,Branded,Diabetes,3,7.5,22.5
+ORD5829,2026-05-25,Calpol,Branded,Pain Relief,6,4.5,27.0
+ORD5467,2026-05-26,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5902,2026-05-26,Limcee,Branded,Supplement,5,3.0,15.0
+ORD5100,2026-05-26,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5787,2026-05-27,Vitamin C,Generic,Supplement,3,1.5,4.5
+ORD5468,2026-05-27,Ibuprofen,Generic,Pain Relief,4,3.0,12.0
+ORD5021,2026-05-27,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD6241,2026-05-27,Insulin,Generic,Diabetes,6,15.0,90.0
+ORD5017,2026-05-27,Cozaar,Branded,Hypertension,6,9.5,57.0
+ORD5123,2026-05-27,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5571,2026-05-27,Paracetamol,Generic,Pain Relief,10,2.5,25.0
+ORD5532,2026-05-28,Glucophage,Branded,Diabetes,1,7.5,7.5
+ORD5473,2026-05-28,Atorvastatin,Generic,Cholesterol,10,6.5,65.0
+ORD5383,2026-05-28,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5518,2026-05-28,Atorvastatin,Generic,Cholesterol,6,6.5,39.0
+ORD6018,2026-05-29,Zyrtec,Branded,Allergy,4,4.0,16.0
+ORD6243,2026-05-29,Norvasc,Branded,Hypertension,2,9.0,18.0
+ORD5405,2026-05-29,Amlodipine,Generic,Hypertension,10,5.0,50.0
+ORD5059,2026-05-29,Losartan,Generic,Hypertension,6,5.5,33.0
+ORD5935,2026-05-29,Zyrtec,Branded,Allergy,6,4.0,24.0
+ORD6122,2026-05-29,Azithromycin,Generic,Antibiotic,4,8.0,32.0
+ORD5398,2026-05-29,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5912,2026-05-29,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5839,2026-05-29,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5596,2026-05-29,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5958,2026-05-30,Azithromycin,Generic,Antibiotic,3,8.0,24.0
+ORD5931,2026-05-30,Vitamin C,Generic,Supplement,5,1.5,7.5
+ORD6081,2026-05-30,Amlodipine,Generic,Hypertension,3,5.0,15.0
+ORD5644,2026-05-30,Salbutamol,Generic,Asthma,3,7.0,21.0
+ORD6167,2026-05-30,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5668,2026-05-30,Glucophage,Branded,Diabetes,1,7.5,7.5
+ORD5053,2026-05-31,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5811,2026-05-31,Omeprazole,Generic,Gastric,10,6.0,60.0
+ORD5692,2026-05-31,Norvasc,Branded,Hypertension,2,9.0,18.0
+ORD5868,2026-05-31,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5838,2026-06-01,Brufen,Branded,Pain Relief,4,5.5,22.0
+ORD6134,2026-06-01,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD6026,2026-06-01,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5604,2026-06-01,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5528,2026-06-01,Metformin,Generic,Diabetes,3,4.0,12.0
+ORD5896,2026-06-01,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD5916,2026-06-01,Lipitor,Branded,Cholesterol,10,11.0,110.0
+ORD5985,2026-06-02,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD6019,2026-06-02,Salbutamol,Generic,Asthma,4,7.0,28.0
+ORD5130,2026-06-02,Cetirizine,Generic,Allergy,3,2.0,6.0
+ORD5937,2026-06-02,Ibuprofen,Generic,Pain Relief,10,3.0,30.0
+ORD5938,2026-06-02,Lipitor,Branded,Cholesterol,2,11.0,22.0
+ORD5947,2026-06-02,Lipitor,Branded,Cholesterol,2,11.0,22.0
+ORD5768,2026-06-03,Norvasc,Branded,Hypertension,10,9.0,90.0
+ORD5764,2026-06-03,Azithromycin,Generic,Antibiotic,3,8.0,24.0
+ORD5219,2026-06-03,Zyrtec,Branded,Allergy,5,4.0,20.0
+ORD5485,2026-06-03,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5327,2026-06-04,Atorvastatin,Generic,Cholesterol,5,6.5,32.5
+ORD5011,2026-06-04,Limcee,Branded,Supplement,2,3.0,6.0
+ORD5775,2026-06-04,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD6147,2026-06-04,Zithromax,Branded,Antibiotic,1,14.0,14.0
+ORD5530,2026-06-04,Glucophage,Branded,Diabetes,6,7.5,45.0
+ORD5803,2026-06-04,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD6025,2026-06-04,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD5395,2026-06-04,Lantus,Branded,Diabetes,1,28.0,28.0
+ORD5233,2026-06-04,Calpol,Branded,Pain Relief,5,4.5,22.5
+ORD5312,2026-06-05,Brufen,Branded,Pain Relief,10,5.5,55.0
+ORD5956,2026-06-05,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD5172,2026-06-05,Lantus,Branded,Diabetes,4,28.0,112.0
+ORD5513,2026-06-05,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5942,2026-06-05,Zithromax,Branded,Antibiotic,3,14.0,42.0
+ORD5196,2026-06-05,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5887,2026-06-05,Amlodipine,Generic,Hypertension,5,5.0,25.0
+ORD5703,2026-06-05,Prilosec,Branded,Gastric,5,10.5,52.5
+ORD6075,2026-06-05,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5537,2026-06-05,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD6064,2026-06-06,Vitamin C,Generic,Supplement,4,1.5,6.0
+ORD5643,2026-06-06,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD6194,2026-06-06,Lipitor,Branded,Cholesterol,10,11.0,110.0
+ORD5647,2026-06-06,Insulin,Generic,Diabetes,6,15.0,90.0
+ORD5551,2026-06-06,Zithromax,Branded,Antibiotic,6,14.0,84.0
+ORD5133,2026-06-06,Prilosec,Branded,Gastric,4,10.5,42.0
+ORD6177,2026-06-06,Norvasc,Branded,Hypertension,4,9.0,36.0
+ORD5981,2026-06-06,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5236,2026-06-06,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5446,2026-06-07,Prilosec,Branded,Gastric,3,10.5,31.5
+ORD6103,2026-06-07,Cetirizine,Generic,Allergy,3,2.0,6.0
+ORD5920,2026-06-07,Zithromax,Branded,Antibiotic,5,14.0,70.0
+ORD5247,2026-06-07,Norvasc,Branded,Hypertension,6,9.0,54.0
+ORD5195,2026-06-07,Amlodipine,Generic,Hypertension,5,5.0,25.0
+ORD5101,2026-06-07,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5710,2026-06-07,Lipitor,Branded,Cholesterol,3,11.0,33.0
+ORD5883,2026-06-08,Ventolin,Branded,Asthma,4,12.5,50.0
+ORD5504,2026-06-08,Vitamin C,Generic,Supplement,1,1.5,1.5
+ORD5568,2026-06-08,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD6242,2026-06-08,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD6063,2026-06-09,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD6079,2026-06-09,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD5823,2026-06-09,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD5227,2026-06-09,Limcee,Branded,Supplement,2,3.0,6.0
+ORD5229,2026-06-09,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD6107,2026-06-09,Ibuprofen,Generic,Pain Relief,4,3.0,12.0
+ORD5693,2026-06-10,Zithromax,Branded,Antibiotic,3,14.0,42.0
+ORD5684,2026-06-10,Zithromax,Branded,Antibiotic,2,14.0,28.0
+ORD5039,2026-06-10,Vitamin C,Generic,Supplement,5,1.5,7.5
+ORD5394,2026-06-10,Prilosec,Branded,Gastric,5,10.5,52.5
+ORD5280,2026-06-10,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5844,2026-06-10,Vitamin C,Generic,Supplement,6,1.5,9.0
+ORD5263,2026-06-10,Cozaar,Branded,Hypertension,1,9.5,9.5
+ORD5877,2026-06-11,Prilosec,Branded,Gastric,2,10.5,21.0
+ORD5342,2026-06-11,Metformin,Generic,Diabetes,3,4.0,12.0
+ORD5606,2026-06-11,Azithromycin,Generic,Antibiotic,4,8.0,32.0
+ORD5298,2026-06-11,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5200,2026-06-11,Cetirizine,Generic,Allergy,5,2.0,10.0
+ORD6121,2026-06-11,Azithromycin,Generic,Antibiotic,4,8.0,32.0
+ORD5783,2026-06-11,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5919,2026-06-11,Lantus,Branded,Diabetes,3,28.0,84.0
+ORD5136,2026-06-11,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5432,2026-06-11,Calpol,Branded,Pain Relief,5,4.5,22.5
+ORD5435,2026-06-11,Zyrtec,Branded,Allergy,3,4.0,12.0
+ORD5750,2026-06-12,Limcee,Branded,Supplement,6,3.0,18.0
+ORD6151,2026-06-12,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5187,2026-06-12,Zyrtec,Branded,Allergy,3,4.0,12.0
+ORD5990,2026-06-12,Amlodipine,Generic,Hypertension,6,5.0,30.0
+ORD6120,2026-06-12,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5452,2026-06-12,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5124,2026-06-12,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD6106,2026-06-12,Cozaar,Branded,Hypertension,6,9.5,57.0
+ORD5098,2026-06-12,Insulin,Generic,Diabetes,10,15.0,150.0
+ORD5957,2026-06-13,Prilosec,Branded,Gastric,3,10.5,31.5
+ORD5278,2026-06-13,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5921,2026-06-13,Glucophage,Branded,Diabetes,5,7.5,37.5
+ORD6073,2026-06-13,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD5975,2026-06-13,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD6047,2026-06-13,Glucophage,Branded,Diabetes,5,7.5,37.5
+ORD5183,2026-06-14,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5690,2026-06-14,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5720,2026-06-14,Glucophage,Branded,Diabetes,4,7.5,30.0
+ORD5667,2026-06-14,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD6054,2026-06-14,Limcee,Branded,Supplement,4,3.0,12.0
+ORD5640,2026-06-14,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD6125,2026-06-14,Norvasc,Branded,Hypertension,1,9.0,9.0
+ORD6024,2026-06-15,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD5283,2026-06-15,Insulin,Generic,Diabetes,4,15.0,60.0
+ORD5733,2026-06-15,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5090,2026-06-15,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5228,2026-06-15,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5636,2026-06-15,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5642,2026-06-15,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5226,2026-06-15,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD5998,2026-06-15,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5962,2026-06-15,Ventolin,Branded,Asthma,10,12.5,125.0
+ORD5112,2026-06-15,Calpol,Branded,Pain Relief,10,4.5,45.0
+ORD5487,2026-06-16,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5235,2026-06-16,Brufen,Branded,Pain Relief,4,5.5,22.0
+ORD5077,2026-06-16,Losartan,Generic,Hypertension,10,5.5,55.0
+ORD5009,2026-06-16,Atorvastatin,Generic,Cholesterol,3,6.5,19.5
+ORD5665,2026-06-16,Cetirizine,Generic,Allergy,10,2.0,20.0
+ORD5490,2026-06-16,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD5433,2026-06-16,Calpol,Branded,Pain Relief,5,4.5,22.5
+ORD5419,2026-06-16,Prilosec,Branded,Gastric,1,10.5,10.5
+ORD5890,2026-06-17,Norvasc,Branded,Hypertension,4,9.0,36.0
+ORD6221,2026-06-17,Glucophage,Branded,Diabetes,4,7.5,30.0
+ORD5286,2026-06-17,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD5608,2026-06-17,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5108,2026-06-17,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5776,2026-06-17,Calpol,Branded,Pain Relief,10,4.5,45.0
+ORD5442,2026-06-18,Lantus,Branded,Diabetes,3,28.0,84.0
+ORD5806,2026-06-18,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5254,2026-06-18,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5737,2026-06-18,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD5535,2026-06-18,Cozaar,Branded,Hypertension,3,9.5,28.5
+ORD5462,2026-06-18,Cetirizine,Generic,Allergy,4,2.0,8.0
+ORD5237,2026-06-19,Omeprazole,Generic,Gastric,3,6.0,18.0
+ORD5126,2026-06-19,Ibuprofen,Generic,Pain Relief,3,3.0,9.0
+ORD5610,2026-06-19,Lipitor,Branded,Cholesterol,4,11.0,44.0
+ORD6149,2026-06-19,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5418,2026-06-19,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD6008,2026-06-19,Ventolin,Branded,Asthma,2,12.5,25.0
+ORD6169,2026-06-20,Cetirizine,Generic,Allergy,10,2.0,20.0
+ORD6170,2026-06-20,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5560,2026-06-21,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5633,2026-06-21,Ibuprofen,Generic,Pain Relief,4,3.0,12.0
+ORD5634,2026-06-21,Limcee,Branded,Supplement,5,3.0,15.0
+ORD5685,2026-06-21,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD6153,2026-06-21,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD6213,2026-06-22,Metformin,Generic,Diabetes,3,4.0,12.0
+ORD5819,2026-06-22,Cetirizine,Generic,Allergy,3,2.0,6.0
+ORD5882,2026-06-22,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5773,2026-06-22,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD5309,2026-06-22,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD6240,2026-06-22,Zithromax,Branded,Antibiotic,2,14.0,28.0
+ORD5329,2026-06-22,Glucophage,Branded,Diabetes,1,7.5,7.5
+ORD6084,2026-06-22,Zithromax,Branded,Antibiotic,4,14.0,56.0
+ORD5735,2026-06-22,Lipitor,Branded,Cholesterol,5,11.0,55.0
+ORD5267,2026-06-23,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD5270,2026-06-23,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5120,2026-06-23,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5589,2026-06-23,Ibuprofen,Generic,Pain Relief,6,3.0,18.0
+ORD5555,2026-06-23,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD6089,2026-06-23,Limcee,Branded,Supplement,5,3.0,15.0
+ORD5491,2026-06-23,Losartan,Generic,Hypertension,5,5.5,27.5
+ORD6001,2026-06-23,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD5165,2026-06-24,Cetirizine,Generic,Allergy,10,2.0,20.0
+ORD6238,2026-06-24,Atorvastatin,Generic,Cholesterol,3,6.5,19.5
+ORD5705,2026-06-24,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD5451,2026-06-24,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD5514,2026-06-24,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5191,2026-06-24,Lipitor,Branded,Cholesterol,4,11.0,44.0
+ORD5399,2026-06-24,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD5087,2026-06-24,Lipitor,Branded,Cholesterol,3,11.0,33.0
+ORD5150,2026-06-25,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5111,2026-06-25,Norvasc,Branded,Hypertension,1,9.0,9.0
+ORD5612,2026-06-25,Metformin,Generic,Diabetes,5,4.0,20.0
+ORD5038,2026-06-25,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD5318,2026-06-25,Omeprazole,Generic,Gastric,3,6.0,18.0
+ORD5397,2026-06-26,Lipitor,Branded,Cholesterol,2,11.0,22.0
+ORD5501,2026-06-26,Cetirizine,Generic,Allergy,6,2.0,12.0
+ORD5782,2026-06-26,Ibuprofen,Generic,Pain Relief,10,3.0,30.0
+ORD5625,2026-06-26,Zithromax,Branded,Antibiotic,4,14.0,56.0
+ORD6069,2026-06-26,Ventolin,Branded,Asthma,3,12.5,37.5
+ORD5805,2026-06-26,Prilosec,Branded,Gastric,2,10.5,21.0
+ORD5436,2026-06-27,Atorvastatin,Generic,Cholesterol,5,6.5,32.5
+ORD5901,2026-06-27,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD5413,2026-06-27,Amlodipine,Generic,Hypertension,3,5.0,15.0
+ORD6175,2026-06-27,Prilosec,Branded,Gastric,10,10.5,105.0
+ORD6173,2026-06-27,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD6022,2026-06-27,Ibuprofen,Generic,Pain Relief,5,3.0,15.0
+ORD5439,2026-06-28,Glucophage,Branded,Diabetes,5,7.5,37.5
+ORD5047,2026-06-28,Brufen,Branded,Pain Relief,6,5.5,33.0
+ORD5232,2026-06-28,Metformin,Generic,Diabetes,10,4.0,40.0
+ORD5306,2026-06-28,Calpol,Branded,Pain Relief,6,4.5,27.0
+ORD5353,2026-06-28,Lipitor,Branded,Cholesterol,5,11.0,55.0
+ORD5014,2026-06-28,Atorvastatin,Generic,Cholesterol,4,6.5,26.0
+ORD5521,2026-06-28,Cozaar,Branded,Hypertension,5,9.5,47.5
+ORD5849,2026-06-28,Glucophage,Branded,Diabetes,4,7.5,30.0
+ORD5162,2026-06-28,Insulin,Generic,Diabetes,6,15.0,90.0
+ORD5440,2026-06-29,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD6180,2026-06-29,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD5626,2026-06-29,Lipitor,Branded,Cholesterol,6,11.0,66.0
+ORD5363,2026-06-29,Norvasc,Branded,Hypertension,10,9.0,90.0
+ORD6111,2026-06-29,Glucophage,Branded,Diabetes,10,7.5,75.0
+ORD5781,2026-06-29,Limcee,Branded,Supplement,2,3.0,6.0
+ORD5152,2026-06-30,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5493,2026-06-30,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD5046,2026-06-30,Cetirizine,Generic,Allergy,4,2.0,8.0
+ORD5928,2026-06-30,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5297,2026-06-30,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD6165,2026-06-30,Ibuprofen,Generic,Pain Relief,4,3.0,12.0
+ORD5822,2026-06-30,Brufen,Branded,Pain Relief,5,5.5,27.5
+ORD5049,2026-07-01,Ibuprofen,Generic,Pain Relief,3,3.0,9.0
+ORD6191,2026-07-01,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5062,2026-07-01,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD5064,2026-07-01,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5061,2026-07-02,Ventolin,Branded,Asthma,2,12.5,25.0
+ORD5786,2026-07-02,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD5294,2026-07-02,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5253,2026-07-02,Zithromax,Branded,Antibiotic,1,14.0,14.0
+ORD5458,2026-07-02,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD6091,2026-07-02,Insulin,Generic,Diabetes,4,15.0,60.0
+ORD6139,2026-07-02,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5841,2026-07-02,Lantus,Branded,Diabetes,4,28.0,112.0
+ORD6164,2026-07-03,Glucophage,Branded,Diabetes,6,7.5,45.0
+ORD5539,2026-07-03,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD5096,2026-07-03,Insulin,Generic,Diabetes,5,15.0,75.0
+ORD5820,2026-07-03,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5519,2026-07-03,Lipitor,Branded,Cholesterol,10,11.0,110.0
+ORD5505,2026-07-03,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5908,2026-07-03,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5759,2026-07-04,Vitamin C,Generic,Supplement,5,1.5,7.5
+ORD5738,2026-07-04,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5392,2026-07-04,Glucophage,Branded,Diabetes,1,7.5,7.5
+ORD5630,2026-07-04,Norvasc,Branded,Hypertension,4,9.0,36.0
+ORD5334,2026-07-04,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD6011,2026-07-04,Atorvastatin,Generic,Cholesterol,3,6.5,19.5
+ORD6036,2026-07-04,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD5423,2026-07-04,Omeprazole,Generic,Gastric,5,6.0,30.0
+ORD5027,2026-07-05,Ventolin,Branded,Asthma,1,12.5,12.5
+ORD6087,2026-07-05,Limcee,Branded,Supplement,6,3.0,18.0
+ORD6097,2026-07-05,Ibuprofen,Generic,Pain Relief,5,3.0,15.0
+ORD5169,2026-07-06,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5190,2026-07-06,Glucophage,Branded,Diabetes,10,7.5,75.0
+ORD5197,2026-07-06,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5029,2026-07-06,Lantus,Branded,Diabetes,5,28.0,140.0
+ORD5391,2026-07-06,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5256,2026-07-06,Brufen,Branded,Pain Relief,5,5.5,27.5
+ORD5489,2026-07-06,Vitamin C,Generic,Supplement,1,1.5,1.5
+ORD6128,2026-07-07,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD5799,2026-07-07,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5900,2026-07-07,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD6109,2026-07-07,Brufen,Branded,Pain Relief,6,5.5,33.0
+ORD5127,2026-07-08,Glucophage,Branded,Diabetes,5,7.5,37.5
+ORD5905,2026-07-08,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD5144,2026-07-08,Lipitor,Branded,Cholesterol,10,11.0,110.0
+ORD6078,2026-07-08,Zithromax,Branded,Antibiotic,4,14.0,56.0
+ORD5122,2026-07-08,Salbutamol,Generic,Asthma,5,7.0,35.0
+ORD6200,2026-07-08,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD5290,2026-07-08,Zithromax,Branded,Antibiotic,4,14.0,56.0
+ORD6032,2026-07-08,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5088,2026-07-08,Atorvastatin,Generic,Cholesterol,6,6.5,39.0
+ORD5736,2026-07-09,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD5666,2026-07-09,Limcee,Branded,Supplement,3,3.0,9.0
+ORD5311,2026-07-09,Limcee,Branded,Supplement,4,3.0,12.0
+ORD5676,2026-07-09,Brufen,Branded,Pain Relief,10,5.5,55.0
+ORD5929,2026-07-09,Insulin,Generic,Diabetes,6,15.0,90.0
+ORD6082,2026-07-10,Limcee,Branded,Supplement,10,3.0,30.0
+ORD5674,2026-07-10,Cozaar,Branded,Hypertension,10,9.5,95.0
+ORD5389,2026-07-10,Metformin,Generic,Diabetes,4,4.0,16.0
+ORD5797,2026-07-10,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5251,2026-07-10,Ventolin,Branded,Asthma,1,12.5,12.5
+ORD5333,2026-07-10,Losartan,Generic,Hypertension,5,5.5,27.5
+ORD5102,2026-07-10,Omeprazole,Generic,Gastric,3,6.0,18.0
+ORD5777,2026-07-10,Glucophage,Branded,Diabetes,1,7.5,7.5
+ORD5106,2026-07-10,Zyrtec,Branded,Allergy,10,4.0,40.0
+ORD5580,2026-07-11,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD5425,2026-07-11,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD5349,2026-07-11,Norvasc,Branded,Hypertension,2,9.0,18.0
+ORD5638,2026-07-11,Amlodipine,Generic,Hypertension,3,5.0,15.0
+ORD5529,2026-07-11,Losartan,Generic,Hypertension,5,5.5,27.5
+ORD5585,2026-07-12,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD5428,2026-07-12,Vitamin C,Generic,Supplement,4,1.5,6.0
+ORD5874,2026-07-12,Salbutamol,Generic,Asthma,4,7.0,28.0
+ORD5943,2026-07-12,Brufen,Branded,Pain Relief,10,5.5,55.0
+ORD5595,2026-07-12,Paracetamol,Generic,Pain Relief,6,2.5,15.0
+ORD6208,2026-07-12,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD6086,2026-07-12,Vitamin C,Generic,Supplement,5,1.5,7.5
+ORD5635,2026-07-12,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5071,2026-07-13,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5078,2026-07-13,Lipitor,Branded,Cholesterol,2,11.0,22.0
+ORD5113,2026-07-13,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5264,2026-07-13,Cetirizine,Generic,Allergy,10,2.0,20.0
+ORD5572,2026-07-13,Lipitor,Branded,Cholesterol,1,11.0,11.0
+ORD5386,2026-07-13,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5211,2026-07-13,Brufen,Branded,Pain Relief,3,5.5,16.5
+ORD6113,2026-07-14,Zyrtec,Branded,Allergy,5,4.0,20.0
+ORD5082,2026-07-14,Calpol,Branded,Pain Relief,10,4.5,45.0
+ORD5881,2026-07-14,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD5791,2026-07-14,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD5203,2026-07-14,Ventolin,Branded,Asthma,5,12.5,62.5
+ORD5911,2026-07-14,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD5707,2026-07-15,Salbutamol,Generic,Asthma,4,7.0,28.0
+ORD6220,2026-07-15,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5694,2026-07-15,Lipitor,Branded,Cholesterol,4,11.0,44.0
+ORD5987,2026-07-15,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD6115,2026-07-15,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD6123,2026-07-15,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD5036,2026-07-15,Zyrtec,Branded,Allergy,5,4.0,20.0
+ORD6030,2026-07-16,Brufen,Branded,Pain Relief,3,5.5,16.5
+ORD5983,2026-07-16,Norvasc,Branded,Hypertension,2,9.0,18.0
+ORD6222,2026-07-16,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5258,2026-07-16,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD6235,2026-07-16,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD5151,2026-07-16,Ibuprofen,Generic,Pain Relief,10,3.0,30.0
+ORD5043,2026-07-16,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5426,2026-07-17,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5523,2026-07-17,Paracetamol,Generic,Pain Relief,6,2.5,15.0
+ORD5968,2026-07-17,Amlodipine,Generic,Hypertension,5,5.0,25.0
+ORD5477,2026-07-18,Azithromycin,Generic,Antibiotic,5,8.0,40.0
+ORD5740,2026-07-18,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD6202,2026-07-18,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5480,2026-07-18,Limcee,Branded,Supplement,10,3.0,30.0
+ORD5396,2026-07-18,Norvasc,Branded,Hypertension,5,9.0,45.0
+ORD5793,2026-07-19,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD5302,2026-07-19,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5031,2026-07-19,Cetirizine,Generic,Allergy,5,2.0,10.0
+ORD5030,2026-07-19,Brufen,Branded,Pain Relief,5,5.5,27.5
+ORD5974,2026-07-19,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5748,2026-07-19,Cozaar,Branded,Hypertension,1,9.5,9.5
+ORD5182,2026-07-19,Limcee,Branded,Supplement,10,3.0,30.0
+ORD5215,2026-07-19,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5969,2026-07-20,Paracetamol,Generic,Pain Relief,3,2.5,7.5
+ORD5696,2026-07-20,Azithromycin,Generic,Antibiotic,4,8.0,32.0
+ORD5632,2026-07-20,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD5119,2026-07-20,Calpol,Branded,Pain Relief,10,4.5,45.0
+ORD6021,2026-07-20,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD5673,2026-07-20,Calpol,Branded,Pain Relief,6,4.5,27.0
+ORD5325,2026-07-21,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD5188,2026-07-21,Limcee,Branded,Supplement,6,3.0,18.0
+ORD6141,2026-07-21,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5645,2026-07-21,Zyrtec,Branded,Allergy,10,4.0,40.0
+ORD5538,2026-07-21,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD5020,2026-07-21,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5979,2026-07-21,Prilosec,Branded,Gastric,3,10.5,31.5
+ORD5081,2026-07-21,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5790,2026-07-21,Brufen,Branded,Pain Relief,4,5.5,22.0
+ORD5701,2026-07-21,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5456,2026-07-21,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD5879,2026-07-21,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD6195,2026-07-21,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD6189,2026-07-21,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5083,2026-07-22,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5089,2026-07-22,Amlodipine,Generic,Hypertension,3,5.0,15.0
+ORD5010,2026-07-22,Metformin,Generic,Diabetes,3,4.0,12.0
+ORD6196,2026-07-22,Vitamin C,Generic,Supplement,10,1.5,15.0
+ORD5565,2026-07-22,Lipitor,Branded,Cholesterol,2,11.0,22.0
+ORD6199,2026-07-22,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD6062,2026-07-22,Norvasc,Branded,Hypertension,6,9.0,54.0
+ORD5834,2026-07-22,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5012,2026-07-23,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5802,2026-07-23,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5727,2026-07-23,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5807,2026-07-23,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5785,2026-07-23,Omeprazole,Generic,Gastric,3,6.0,18.0
+ORD5384,2026-07-23,Salbutamol,Generic,Asthma,10,7.0,70.0
+ORD6159,2026-07-23,Lipitor,Branded,Cholesterol,2,11.0,22.0
+ORD5583,2026-07-23,Limcee,Branded,Supplement,2,3.0,6.0
+ORD5780,2026-07-23,Zithromax,Branded,Antibiotic,6,14.0,84.0
+ORD6166,2026-07-23,Metformin,Generic,Diabetes,10,4.0,40.0
+ORD5488,2026-07-23,Calpol,Branded,Pain Relief,5,4.5,22.5
+ORD5194,2026-07-24,Prilosec,Branded,Gastric,3,10.5,31.5
+ORD5971,2026-07-25,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD5950,2026-07-25,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD5365,2026-07-25,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5287,2026-07-26,Ibuprofen,Generic,Pain Relief,5,3.0,15.0
+ORD5506,2026-07-26,Cozaar,Branded,Hypertension,4,9.5,38.0
+ORD5007,2026-07-26,Vitamin C,Generic,Supplement,1,1.5,1.5
+ORD5328,2026-07-26,Zyrtec,Branded,Allergy,4,4.0,16.0
+ORD6126,2026-07-26,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD5385,2026-07-26,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5584,2026-07-26,Prilosec,Branded,Gastric,4,10.5,42.0
+ORD6015,2026-07-27,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD5022,2026-07-27,Lantus,Branded,Diabetes,6,28.0,168.0
+ORD5434,2026-07-27,Vitamin C,Generic,Supplement,4,1.5,6.0
+ORD5401,2026-07-27,Salbutamol,Generic,Asthma,3,7.0,21.0
+ORD6023,2026-07-27,Calpol,Branded,Pain Relief,10,4.5,45.0
+ORD5450,2026-07-27,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5649,2026-07-27,Metformin,Generic,Diabetes,5,4.0,20.0
+ORD5628,2026-07-28,Amlodipine,Generic,Hypertension,5,5.0,25.0
+ORD5682,2026-07-28,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5833,2026-07-28,Omeprazole,Generic,Gastric,10,6.0,60.0
+ORD6055,2026-07-28,Ibuprofen,Generic,Pain Relief,4,3.0,12.0
+ORD5848,2026-07-28,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5138,2026-07-28,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5641,2026-07-28,Brufen,Branded,Pain Relief,10,5.5,55.0
+ORD6145,2026-07-28,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5578,2026-07-28,Norvasc,Branded,Hypertension,2,9.0,18.0
+ORD6146,2026-07-29,Brufen,Branded,Pain Relief,10,5.5,55.0
+ORD5176,2026-07-29,Prilosec,Branded,Gastric,5,10.5,52.5
+ORD5747,2026-07-29,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5522,2026-07-29,Lantus,Branded,Diabetes,3,28.0,84.0
+ORD5818,2026-07-29,Limcee,Branded,Supplement,2,3.0,6.0
+ORD5202,2026-07-29,Glucophage,Branded,Diabetes,6,7.5,45.0
+ORD5534,2026-07-29,Calpol,Branded,Pain Relief,6,4.5,27.0
+ORD5526,2026-07-29,Lipitor,Branded,Cholesterol,10,11.0,110.0
+ORD5845,2026-07-29,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD6046,2026-07-30,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5492,2026-07-31,Brufen,Branded,Pain Relief,5,5.5,27.5
+ORD5706,2026-07-31,Limcee,Branded,Supplement,3,3.0,9.0
+ORD5993,2026-07-31,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5512,2026-08-01,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5274,2026-08-01,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD6183,2026-08-01,Glucophage,Branded,Diabetes,6,7.5,45.0
+ORD5042,2026-08-01,Ventolin,Branded,Asthma,4,12.5,50.0
+ORD6013,2026-08-01,Amlodipine,Generic,Hypertension,3,5.0,15.0
+ORD5362,2026-08-01,Amlodipine,Generic,Hypertension,4,5.0,20.0
+ORD5856,2026-08-01,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5863,2026-08-01,Vitamin C,Generic,Supplement,6,1.5,9.0
+ORD6043,2026-08-01,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD5344,2026-08-02,Atorvastatin,Generic,Cholesterol,6,6.5,39.0
+ORD5675,2026-08-02,Metformin,Generic,Diabetes,5,4.0,20.0
+ORD6116,2026-08-02,Insulin,Generic,Diabetes,4,15.0,60.0
+ORD5380,2026-08-02,Insulin,Generic,Diabetes,4,15.0,60.0
+ORD5854,2026-08-02,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD6182,2026-08-03,Vitamin C,Generic,Supplement,6,1.5,9.0
+ORD5724,2026-08-03,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5110,2026-08-03,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5479,2026-08-03,Calpol,Branded,Pain Relief,6,4.5,27.0
+ORD6090,2026-08-03,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5086,2026-08-03,Ibuprofen,Generic,Pain Relief,10,3.0,30.0
+ORD5830,2026-08-03,Norvasc,Branded,Hypertension,6,9.0,54.0
+ORD5511,2026-08-03,Losartan,Generic,Hypertension,4,5.5,22.0
+ORD5243,2026-08-03,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5934,2026-08-04,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD6077,2026-08-04,Prilosec,Branded,Gastric,4,10.5,42.0
+ORD6131,2026-08-04,Insulin,Generic,Diabetes,5,15.0,75.0
+ORD5225,2026-08-04,Zyrtec,Branded,Allergy,6,4.0,24.0
+ORD5350,2026-08-04,Losartan,Generic,Hypertension,5,5.5,27.5
+ORD5678,2026-08-04,Atorvastatin,Generic,Cholesterol,6,6.5,39.0
+ORD6209,2026-08-04,Azithromycin,Generic,Antibiotic,5,8.0,40.0
+ORD5244,2026-08-05,Prilosec,Branded,Gastric,4,10.5,42.0
+ORD6193,2026-08-05,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD6198,2026-08-05,Lantus,Branded,Diabetes,10,28.0,280.0
+ORD5766,2026-08-05,Glucophage,Branded,Diabetes,3,7.5,22.5
+ORD5959,2026-08-06,Norvasc,Branded,Hypertension,2,9.0,18.0
+ORD5955,2026-08-06,Metformin,Generic,Diabetes,3,4.0,12.0
+ORD6232,2026-08-06,Insulin,Generic,Diabetes,3,15.0,45.0
+ORD6071,2026-08-06,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5871,2026-08-06,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD5654,2026-08-06,Atorvastatin,Generic,Cholesterol,10,6.5,65.0
+ORD5381,2026-08-06,Atorvastatin,Generic,Cholesterol,3,6.5,19.5
+ORD5366,2026-08-07,Cetirizine,Generic,Allergy,5,2.0,10.0
+ORD5255,2026-08-07,Ibuprofen,Generic,Pain Relief,3,3.0,9.0
+ORD5948,2026-08-07,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD5368,2026-08-07,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5421,2026-08-07,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5683,2026-08-07,Brufen,Branded,Pain Relief,6,5.5,33.0
+ORD5661,2026-08-07,Azithromycin,Generic,Antibiotic,6,8.0,48.0
+ORD6216,2026-08-07,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD5615,2026-08-07,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5800,2026-08-08,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5718,2026-08-08,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5904,2026-08-08,Paracetamol,Generic,Pain Relief,2,2.5,5.0
+ORD5495,2026-08-08,Ventolin,Branded,Asthma,2,12.5,25.0
+ORD5393,2026-08-08,Insulin,Generic,Diabetes,1,15.0,15.0
+ORD5614,2026-08-08,Vitamin C,Generic,Supplement,3,1.5,4.5
+ORD5761,2026-08-08,Omeprazole,Generic,Gastric,3,6.0,18.0
+ORD6094,2026-08-08,Zithromax,Branded,Antibiotic,3,14.0,42.0
+ORD5209,2026-08-08,Lantus,Branded,Diabetes,2,28.0,56.0
+ORD5483,2026-08-08,Paracetamol,Generic,Pain Relief,6,2.5,15.0
+ORD5481,2026-08-08,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD5852,2026-08-08,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5508,2026-08-09,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD6136,2026-08-09,Prilosec,Branded,Gastric,6,10.5,63.0
+ORD5006,2026-08-09,Cozaar,Branded,Hypertension,2,9.5,19.0
+ORD5375,2026-08-09,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD5324,2026-08-10,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5040,2026-08-10,Zithromax,Branded,Antibiotic,6,14.0,84.0
+ORD5910,2026-08-10,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5357,2026-08-10,Cetirizine,Generic,Allergy,3,2.0,6.0
+ORD5437,2026-08-10,Norvasc,Branded,Hypertension,1,9.0,9.0
+ORD5109,2026-08-10,Brufen,Branded,Pain Relief,1,5.5,5.5
+ORD5045,2026-08-10,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD6185,2026-08-10,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5835,2026-08-10,Ibuprofen,Generic,Pain Relief,5,3.0,15.0
+ORD5341,2026-08-11,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5431,2026-08-11,Insulin,Generic,Diabetes,4,15.0,60.0
+ORD6059,2026-08-11,Cozaar,Branded,Hypertension,5,9.5,47.5
+ORD5296,2026-08-11,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5570,2026-08-11,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5184,2026-08-12,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD5189,2026-08-12,Limcee,Branded,Supplement,2,3.0,6.0
+ORD5858,2026-08-12,Calpol,Branded,Pain Relief,10,4.5,45.0
+ORD6157,2026-08-12,Prilosec,Branded,Gastric,1,10.5,10.5
+ORD5494,2026-08-12,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5289,2026-08-12,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5402,2026-08-12,Norvasc,Branded,Hypertension,6,9.0,54.0
+ORD5284,2026-08-12,Zithromax,Branded,Antibiotic,4,14.0,56.0
+ORD5214,2026-08-13,Ventolin,Branded,Asthma,4,12.5,50.0
+ORD5208,2026-08-13,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD5343,2026-08-13,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD6119,2026-08-13,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD6130,2026-08-13,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5885,2026-08-13,Vitamin C,Generic,Supplement,1,1.5,1.5
+ORD6237,2026-08-13,Lipitor,Branded,Cholesterol,6,11.0,66.0
+ORD6129,2026-08-14,Ibuprofen,Generic,Pain Relief,1,3.0,3.0
+ORD5001,2026-08-14,Omeprazole,Generic,Gastric,5,6.0,30.0
+ORD6096,2026-08-14,Azithromycin,Generic,Antibiotic,5,8.0,40.0
+ORD5860,2026-08-14,Prilosec,Branded,Gastric,1,10.5,10.5
+ORD5794,2026-08-14,Lantus,Branded,Diabetes,3,28.0,84.0
+ORD5679,2026-08-14,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5659,2026-08-14,Zithromax,Branded,Antibiotic,5,14.0,70.0
+ORD5624,2026-08-14,Salbutamol,Generic,Asthma,2,7.0,14.0
+ORD5154,2026-08-14,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD5158,2026-08-14,Cozaar,Branded,Hypertension,3,9.5,28.5
+ORD5917,2026-08-15,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5762,2026-08-15,Losartan,Generic,Hypertension,3,5.5,16.5
+ORD5664,2026-08-15,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5549,2026-08-15,Vitamin C,Generic,Supplement,6,1.5,9.0
+ORD5449,2026-08-15,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5422,2026-08-15,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5876,2026-08-15,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD5265,2026-08-15,Amlodipine,Generic,Hypertension,1,5.0,5.0
+ORD6010,2026-08-15,Prilosec,Branded,Gastric,2,10.5,21.0
+ORD5134,2026-08-15,Ibuprofen,Generic,Pain Relief,10,3.0,30.0
+ORD6233,2026-08-15,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD6060,2026-08-15,Lipitor,Branded,Cholesterol,10,11.0,110.0
+ORD6065,2026-08-15,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5068,2026-08-15,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD5870,2026-08-16,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD5304,2026-08-16,Cozaar,Branded,Hypertension,5,9.5,47.5
+ORD5445,2026-08-16,Salbutamol,Generic,Asthma,1,7.0,7.0
+ORD5448,2026-08-16,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5139,2026-08-16,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5121,2026-08-16,Ibuprofen,Generic,Pain Relief,5,3.0,15.0
+ORD5069,2026-08-16,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD5348,2026-08-16,Brufen,Branded,Pain Relief,10,5.5,55.0
+ORD5407,2026-08-16,Insulin,Generic,Diabetes,2,15.0,30.0
+ORD6245,2026-08-16,Ibuprofen,Generic,Pain Relief,2,3.0,6.0
+ORD6017,2026-08-16,Prilosec,Branded,Gastric,2,10.5,21.0
+ORD5984,2026-08-16,Limcee,Branded,Supplement,6,3.0,18.0
+ORD5986,2026-08-17,Prilosec,Branded,Gastric,10,10.5,105.0
+ORD5939,2026-08-17,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD6066,2026-08-17,Vitamin C,Generic,Supplement,4,1.5,6.0
+ORD5076,2026-08-17,Lantus,Branded,Diabetes,6,28.0,168.0
+ORD5178,2026-08-17,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5063,2026-08-17,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5461,2026-08-18,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD6083,2026-08-18,Limcee,Branded,Supplement,3,3.0,9.0
+ORD5301,2026-08-18,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD5281,2026-08-18,Lantus,Branded,Diabetes,3,28.0,84.0
+ORD5453,2026-08-19,Lipitor,Branded,Cholesterol,1,11.0,11.0
+ORD5967,2026-08-19,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD6211,2026-08-19,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD5672,2026-08-19,Azithromycin,Generic,Antibiotic,1,8.0,8.0
+ORD5927,2026-08-19,Vitamin C,Generic,Supplement,10,1.5,15.0
+ORD6201,2026-08-19,Ventolin,Branded,Asthma,2,12.5,25.0
+ORD5542,2026-08-19,Cozaar,Branded,Hypertension,1,9.5,9.5
+ORD6056,2026-08-20,Metformin,Generic,Diabetes,6,4.0,24.0
+ORD5637,2026-08-20,Omeprazole,Generic,Gastric,2,6.0,12.0
+ORD5160,2026-08-20,Ventolin,Branded,Asthma,3,12.5,37.5
+ORD5784,2026-08-21,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD5417,2026-08-21,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5709,2026-08-21,Metformin,Generic,Diabetes,1,4.0,4.0
+ORD5749,2026-08-21,Azithromycin,Generic,Antibiotic,2,8.0,16.0
+ORD5798,2026-08-21,Losartan,Generic,Hypertension,5,5.5,27.5
+ORD6127,2026-08-21,Zithromax,Branded,Antibiotic,3,14.0,42.0
+ORD5552,2026-08-21,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD5105,2026-08-21,Cetirizine,Generic,Allergy,5,2.0,10.0
+ORD5322,2026-08-21,Zithromax,Branded,Antibiotic,3,14.0,42.0
+ORD5980,2026-08-22,Azithromycin,Generic,Antibiotic,5,8.0,40.0
+ORD5032,2026-08-22,Cetirizine,Generic,Allergy,4,2.0,8.0
+ORD6058,2026-08-22,Cetirizine,Generic,Allergy,6,2.0,12.0
+ORD5765,2026-08-22,Metformin,Generic,Diabetes,10,4.0,40.0
+ORD5809,2026-08-22,Omeprazole,Generic,Gastric,4,6.0,24.0
+ORD6102,2026-08-22,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5837,2026-08-22,Amlodipine,Generic,Hypertension,2,5.0,10.0
+ORD5205,2026-08-22,Norvasc,Branded,Hypertension,10,9.0,90.0
+ORD5869,2026-08-22,Omeprazole,Generic,Gastric,10,6.0,60.0
+ORD5013,2026-08-22,Paracetamol,Generic,Pain Relief,6,2.5,15.0
+ORD5149,2026-08-22,Limcee,Branded,Supplement,10,3.0,30.0
+ORD5898,2026-08-23,Azithromycin,Generic,Antibiotic,3,8.0,24.0
+ORD5743,2026-08-23,Limcee,Branded,Supplement,2,3.0,6.0
+ORD5145,2026-08-23,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD5801,2026-08-23,Insulin,Generic,Diabetes,6,15.0,90.0
+ORD5496,2026-08-23,Paracetamol,Generic,Pain Relief,1,2.5,2.5
+ORD5655,2026-08-23,Azithromycin,Generic,Antibiotic,10,8.0,80.0
+ORD5817,2026-08-23,Glucophage,Branded,Diabetes,3,7.5,22.5
+ORD6229,2026-08-24,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD6225,2026-08-24,Azithromycin,Generic,Antibiotic,10,8.0,80.0
+ORD5789,2026-08-24,Amlodipine,Generic,Hypertension,6,5.0,30.0
+ORD6161,2026-08-24,Brufen,Branded,Pain Relief,2,5.5,11.0
+ORD5356,2026-08-25,Limcee,Branded,Supplement,4,3.0,12.0
+ORD5370,2026-08-25,Calpol,Branded,Pain Relief,2,4.5,9.0
+ORD5249,2026-08-25,Ventolin,Branded,Asthma,3,12.5,37.5
+ORD5745,2026-08-25,Lantus,Branded,Diabetes,10,28.0,280.0
+ORD6057,2026-08-25,Insulin,Generic,Diabetes,3,15.0,45.0
+ORD5712,2026-08-25,Calpol,Branded,Pain Relief,1,4.5,4.5
+ORD5058,2026-08-25,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5669,2026-08-25,Losartan,Generic,Hypertension,1,5.5,5.5
+ORD5945,2026-08-25,Zithromax,Branded,Antibiotic,6,14.0,84.0
+ORD5388,2026-08-25,Omeprazole,Generic,Gastric,6,6.0,36.0
+ORD5602,2026-08-25,Paracetamol,Generic,Pain Relief,5,2.5,12.5
+ORD5579,2026-08-25,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5923,2026-08-25,Losartan,Generic,Hypertension,3,5.5,16.5
+ORD5128,2026-08-25,Vitamin C,Generic,Supplement,2,1.5,3.0
+ORD5412,2026-08-25,Calpol,Branded,Pain Relief,5,4.5,22.5
+ORD5906,2026-08-26,Cozaar,Branded,Hypertension,5,9.5,47.5
+ORD5210,2026-08-26,Cetirizine,Generic,Allergy,5,2.0,10.0
+ORD5746,2026-08-26,Ventolin,Branded,Asthma,4,12.5,50.0
+ORD5052,2026-08-26,Lipitor,Branded,Cholesterol,1,11.0,11.0
+ORD5143,2026-08-27,Insulin,Generic,Diabetes,5,15.0,75.0
+ORD5753,2026-08-27,Zyrtec,Branded,Allergy,1,4.0,4.0
+ORD5415,2026-08-27,Lantus,Branded,Diabetes,5,28.0,140.0
+ORD5369,2026-08-27,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD5964,2026-08-27,Losartan,Generic,Hypertension,6,5.5,33.0
+ORD5873,2026-08-28,Limcee,Branded,Supplement,10,3.0,30.0
+ORD6002,2026-08-28,Cetirizine,Generic,Allergy,4,2.0,8.0
+ORD5999,2026-08-28,Amlodipine,Generic,Hypertension,3,5.0,15.0
+ORD5216,2026-08-28,Norvasc,Branded,Hypertension,5,9.0,45.0
+ORD6042,2026-08-29,Losartan,Generic,Hypertension,10,5.5,55.0
+ORD5795,2026-08-29,Brufen,Branded,Pain Relief,3,5.5,16.5
+ORD5340,2026-08-29,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD6168,2026-08-29,Cetirizine,Generic,Allergy,2,2.0,4.0
+ORD5486,2026-08-29,Metformin,Generic,Diabetes,10,4.0,40.0
+ORD6142,2026-08-30,Norvasc,Branded,Hypertension,10,9.0,90.0
+ORD6162,2026-08-30,Omeprazole,Generic,Gastric,1,6.0,6.0
+ORD5723,2026-08-30,Zyrtec,Branded,Allergy,2,4.0,8.0
+ORD5587,2026-08-30,Omeprazole,Generic,Gastric,4,6.0,24.0
+ORD6118,2026-08-30,Lipitor,Branded,Cholesterol,5,11.0,55.0
+ORD5973,2026-08-30,Losartan,Generic,Hypertension,2,5.5,11.0
+ORD5373,2026-08-30,Atorvastatin,Generic,Cholesterol,1,6.5,6.5
+ORD6227,2026-08-30,Cetirizine,Generic,Allergy,1,2.0,2.0
+ORD5575,2026-08-30,Metformin,Generic,Diabetes,2,4.0,8.0
+ORD6181,2026-08-31,Glucophage,Branded,Diabetes,2,7.5,15.0
+ORD5996,2026-08-31,Atorvastatin,Generic,Cholesterol,2,6.5,13.0
+ORD5352,2026-08-31,Limcee,Branded,Supplement,6,3.0,18.0
+ORD5925,2026-08-31,Limcee,Branded,Supplement,1,3.0,3.0
+ORD5220,2026-08-31,Amlodipine,Generic,Hypertension,4,5.0,20.0
+ORD5605,2026-08-31,Prilosec,Branded,Gastric,4,10.5,42.0
